@@ -6,7 +6,7 @@
 
 ```console
 git clone https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020.git
-cd attestation-deplacement-derogatoire-q4-2020
+cd AutoTTESTATION
 npm i
 npm start
 ```
